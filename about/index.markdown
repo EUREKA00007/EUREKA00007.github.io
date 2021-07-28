@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 关于
+title:  关于
+date:   2020-07-28 23:41:32
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+自我描述：工科生阿宅，业余生活中喜欢逛逛S1论坛，看网友讨论动画的作画片段，每天都会阅读当天的游戏新闻，大多数时间在敲代码，偶尔看看漫画。
 
 <img src="/images/myGithub.jpg" style="width:40%;height:40%" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
-
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
+最近在干的事情：因为要找工作，所以正一门心思投入到学习和编程实践中，希望可以找到让自己满意的工作，右边的图片是
+我喜欢的动画原画师吉成钢在twitter上连载的系列《謎のアニメ団》（谜之动画团），如果有看到这段文字的作豚请B站私信，咱们私下交流（
