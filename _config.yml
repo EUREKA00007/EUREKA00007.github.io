@@ -1,6 +1,6 @@
 name: Eureka's Blog
 url: https://eureka00007.github.io
-description: 这里是eureka的个人博客，分享有关前端技术，以及关于游戏、动画等娱乐形式的文章!
+description: 这里是eureka的个人博客，分享技术、以及有关游戏、动画等娱乐形式的文章!
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
