@@ -128,12 +128,5 @@ console.log(c); // SyntaxError: Identifier 'c' has already been declared
 
 ###### 7.根据上述的比较可以总结出如下的表格：
 
-|        区别        |  var   |  let   |  const  |
-| :----------------: | :--: |  :--:  |  :---:  |
-| 是否具有块级作用域 |   ✘    |   ✔    |    ✔    |
-|  是否存在变量提升  |   ✔    |   ✘    |    ✘    |
-|  是否添加全局属性  |   ✔    |   ✘    |    ✘    |
-|  能否重复声明变量  |   ✔    |   ✘    |    ✘    |
-| 是否存在暂时性死区 |   ✘    |   ✔    |    ✔    |
-| 是否必须设置初始值 |   ✘    |   ✘    |    ✔    |
+<img src="/images/var、let和const.png" style="width:40%;height:40%" class="left" />
 
