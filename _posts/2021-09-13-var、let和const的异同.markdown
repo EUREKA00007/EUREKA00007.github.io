@@ -25,7 +25,7 @@ var a = 0;
 let b = 0;
 const b = 0;
 
-//重新赋值
+// 重新赋值
 a = 1;
 b = 1;
 c = 1;
@@ -59,7 +59,7 @@ console.log(i); // 3
 
 ​	这很显然不是我们所希望看到的，而使用let和const则不会出现这种情况，let和const存在块级作用域，由{ }所包括。
 
-```JavaScript
+```javascript
 var arr = [1,2,3]
 for(let i = 0; i< arr.length; i++){
     console.log(arr[i]);
