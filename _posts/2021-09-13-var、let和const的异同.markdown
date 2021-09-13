@@ -38,7 +38,7 @@ c // TypeError: Assignment to constant variable.
 ​	可以看出，var和let声明的变量可以修改其中的值，而const声明的变量不可以重新赋值。实际上，const是用来声明常量的，在实际的编程任务中，由于对节省内存空间、进行参数的修改和调整等状况的考虑，我们声明的很多变量是不需要重新赋值的，ES6中const关键字的加入，解决了这些问题。而且const所声明的变量，在其声明的时候必须初始化，不能留到后面的语句里在对其赋值。
 
 ```javascript
-const a；
+const a;
 // SyntaxError: Missing initializer in const declaration
 ```
 
@@ -59,7 +59,7 @@ console.log(i); // 3
 
 ​	这很显然不是我们所希望看到的，而使用let和const则不会出现这种情况，let和const存在块级作用域，由{ }所包括。
 
-```javascript
+```JavaScript
 var arr = [1,2,3]
 for(let i = 0; i< arr.length; i++){
     console.log(arr[i]);
