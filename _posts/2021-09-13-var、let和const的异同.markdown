@@ -128,5 +128,7 @@ console.log(c); // SyntaxError: Identifier 'c' has already been declared
 
 ###### 7.根据上述的比较可以总结出如下的表格：
 
+
+
 <img src="/images/var_let_const.png" style="width:40%;height:40%" />
    
