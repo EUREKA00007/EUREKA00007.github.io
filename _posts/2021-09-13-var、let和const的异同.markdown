@@ -130,5 +130,5 @@ console.log(c); // SyntaxError: Identifier 'c' has already been declared
 
 
 
-<img src="/images/var_let_const.png" style="width:40%;height:40%" />
+<img src="/images/var_let_const.png" style="width:80%;height:80%" />
    
